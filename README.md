@@ -1,2 +1,7 @@
-# Mutivariate-Analysis-New-York-City-Taxi-and-Limousine-Commission
-Demand and Revenue Forecasting for New York City Taxi and Limousine Commission
+# Executive Summary
+
+Taxi transportation is a vital element in the transportation network of New York City (TEAM, 2014). In order to strike the right balance between demand and supply of taxis at different locations, at different times of the day, it is important for any taxi management or government authorities to plan and forecast the demand in order to provide better service to the commuters while maximising the profits.
+
+This report highlights the results of the analysis for NYC Taxi and Limousine Commission TLC trip data and demonstrates how any business can accomplish the goals of balancing the demand while maximising profits using historical trip data such as date-time and locations of pick-up and drop-off, trip distances, trip durations, fare details, and others
+
+The results are based on data of over 9 million green taxi trip records from January-June 2016. The analysis shows how using unsupervised learning algorithm such as K-means clustering, the city of NYC can be divided into 15 high pickup zones. Further using time series techniques such as Regression based models, ARIMA and Holt-Winters, how business can benefit by forecasting the revenue (overall) and dynamic demand for pickups in these zones over different time periods of the day. Based on these forecasted demands and average revenue for a ride spread across different zones and time period, the report highlights how using Linear Programming technique one can effectively optimize the use of existing fleet for better profits and effective service. The analysis also presents patterns of daily commute between different regions which can promote carpooling, enabling business to cater to larger demands and avoiding congestion on the road.
